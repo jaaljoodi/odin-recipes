@@ -1,0 +1,55 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #E8A87c;
+}
+
+/* Index page */
+body {
+  text-align: center;
+}
+
+h1 {
+  color: #E27D60;
+  font-size: 55px;
+}
+
+.index-list {
+  color: #C38D9E;
+  font-size: 26px;
+  list-style-position: inside;
+  list-style: none;
+  padding: 5px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+/* Pizza page */
+.description,
+.para1,
+.ingred,
+.steps {
+  color: #FFFF;
+}
+
+.para1 {
+  line-height: 1.6em;
+}
+
+.ingred-list,
+.list-pizza,
+.list-carrot,
+.list-soup {
+  color: #808080;
+}
+
+.ingred-list {
+  list-style: none;
+}
+
+.list-pizza,
+.list-carrot,
+.list-soup {
+  text-align: left;
+}
